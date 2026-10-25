@@ -1,8 +1,8 @@
 {
   "type": "module",
   "dependencies": {
-    "@openai/agents": "^0.0.15",
-    "ajv": "^8.17.1",
+    "@openai/agents": "^0.21.0",
+    "ajv": "^8.18.0",
     "listr2": "^9.0.1"
   },
   "scripts": {
