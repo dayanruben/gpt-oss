@@ -228,6 +228,8 @@ This repository provides a collection of reference implementations:
 
 ### Installation
 
+The release workflow uploads packages to PyPI only from the upstream `openai/gpt-oss` repository.
+
 If you want to try any of the code you can install it directly from [PyPI](https://pypi.org/project/gpt-oss/)
 
 ```shell
